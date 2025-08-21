@@ -22,6 +22,12 @@ background-color:rgba(0,0,0, 0.5);
 z-index: 2;
 }
 
+.icons{
+    position: absolute;
+    color: white;
+    z-index: 3;
+    list-style: none;
+}
 
 .cont{
     position: absolute;
